@@ -27,7 +27,8 @@ SECRET_KEY = 'w5yzw_teg+7c(8x=xko&s06q*s51khz7=uh_tgn&s2*=lhtgc='
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'https://notesapi-heroku.herokuapp.com/'
+    'https://notesapi-heroku.herokuapp.com/',
+    '127.0.0.1'
 ]
 
 
